@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{page.lang | default: site.lang | default:" ja "}}">
+
+<head>
+    {% include head.html %}
+</head>
+
+<body>
+    {% include header.html %}
+
+    <main class="page-content" area-lable="Content">
+        <div class="wrapper">
+            {{content}}
+        </div>
+        {% include footer.html %}
+    </main>
+</body>
+
+</html>
