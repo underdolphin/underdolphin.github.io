@@ -1,3 +1,7 @@
+---
+tags : update_site
+---
+
 # Change site design
 
 早速サイトのデザインを変更。Jekyll標準のminimaを流用しつつ、暗めの背景を採用することで、目に優しく仕上げた。  

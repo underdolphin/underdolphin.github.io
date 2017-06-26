@@ -32,4 +32,9 @@ plugins: [jekyll-feed]
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+  - gulpfile.js
+  - tsconfig.json
 incremental : true
