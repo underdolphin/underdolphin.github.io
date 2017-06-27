@@ -1,5 +1,5 @@
 ---
-title: Change-site-generator
+title: Change site generator
 date: 2017-06-27 22:01:21
 tags: 
   - サイト更新
