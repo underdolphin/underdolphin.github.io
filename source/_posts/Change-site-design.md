@@ -1,7 +1,8 @@
 ---
-tags : update_site
+title: Change site design
+date: 2017-06-25 21:44:22
+tags: サイト更新
 ---
-
 # Change site design
 
 早速サイトのデザインを変更。Jekyll標準のminimaを流用しつつ、暗めの背景を採用することで、目に優しく仕上げた。  
