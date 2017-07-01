@@ -21,6 +21,6 @@ underdolphinのブログ
 
 * CPU : Intel Core I3 7100
 * GPU : NVIDIA Geforce GTX 1050
-* Memory : DDR4-2133 4GB
+* Memory : DDR4-2133 4GB + 8GB(2017/7/1～)
 * Strage1 : SSD 250GB(メーカーは忘れた)
 * Strage2 : WD Black 1TB(2017/6/24購入)
